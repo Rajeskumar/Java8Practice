@@ -4,6 +4,7 @@ package com.self.java8;
  */
 
 /**
+ * Class for Basic Lambda examples.
  * @author Rajeskumarcse@gmail.com
  *
  */
