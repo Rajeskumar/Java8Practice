@@ -1,4 +1,5 @@
 package com.self.java8;
+
 /**
  * 
  */
@@ -44,6 +45,7 @@ public class BasicLambdaExpression {
 			
 	      greetService1.sayMessage("Rajeshkumar");
 	      greetService2.sayMessage("Ganesan");
+	      
 	}
 	
 	interface MathOperation {
